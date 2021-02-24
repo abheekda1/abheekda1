@@ -23,12 +23,17 @@
 
 <p>My favorite repositories:</p>
 
+<a href="https://github.com/ADawesomeguy/AwesomeSciBo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
+</a>
 
+<a href="https://github.com/ADawesomeguy/AwesomeMC">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
+</a>
 
+<a href="https://github.com/ADawesomeguy/SpacEscape2D">
 <img alight="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
-
+</a>
 
 <!--
 **ADawesomeguy/ADawesomeguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
