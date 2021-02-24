@@ -8,32 +8,30 @@
 <p>I'm a 14 year old that loves learning about anything tech!</p>
 
 <p>Here are some places you can see my work in action:</p>
-  
-
 
 <a href="https://www.youtube.com/channel/UCjMklVqZIPRwcFXKUOXhHYg"> <img src="https://img.shields.io/badge/youtube-FF8888?logo=youtube&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-8888FF?logo=firefox&style=for-the-badge" /></a>
 <a href="https://www.npmjs.com/~adawesomeguy"> <img src="https://img.shields.io/badge/NPMJS-FF88FF?logo=npm&logoColor=white&style=for-the-badge" /></a>
 
 <h2>Here are the stats</h3>
-<p>My favorite languages:</p>
+<p align="right">My favorite languages:</p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" alt="Favorite Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" alt="Favorite Languages"/>
+<p align="left">My favorite repositories:</p>
 
-<p>My favorite repositories:</p>
+![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 
-<a href="https://github.com/ADawesomeguy/AwesomeSciBo">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
+![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
+
+<!--<a href="https://github.com/ADawesomeguy/AwesomeMC">
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&tet_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
 </a>
-
-<a href="https://github.com/ADawesomeguy/AwesomeMC">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
-</a>
-
 <a href="https://github.com/ADawesomeguy/SpacEscape2D">
-<img alight="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
-</a>
+<img alight="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
+</a>-->
 
 <!--
 **ADawesomeguy/ADawesomeguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
