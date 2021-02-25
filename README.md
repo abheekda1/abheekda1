@@ -13,8 +13,8 @@
 <a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-8888FF?logo=firefox&style=for-the-badge" /></a>
 <a href="https://www.npmjs.com/~adawesomeguy"> <img src="https://img.shields.io/badge/NPMJS-FF88FF?logo=npm&logoColor=white&style=for-the-badge" /></a>
 
-<h2>Here are the stats</h3>
-<p align="center">My favorite languages:</p>
+<h2 align="center">Here are the stats</h3>
+<p align="right">My favorite languages:</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+Favorite+Languages&show_icons=true&theme=radical" alt="Favorite Languages"/>
 
@@ -22,9 +22,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 
 <!--<a href="https://github.com/ADawesomeguy/AwesomeMC">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&tet_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
