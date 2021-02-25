@@ -3,7 +3,7 @@
 
 # Abheek Dhawan
 > Developer, Linux Enthusiast, and Full Time Nerd 🤓
-<h3>A Litte Bit About Me</h2>
+<h3>A Little Bit About Me</h2>
 
 <p>I'm a 14 year old that loves learning about anything tech!</p>
 
@@ -14,9 +14,9 @@
 <a href="https://www.npmjs.com/~adawesomeguy"> <img src="https://img.shields.io/badge/NPMJS-FF88FF?logo=npm&logoColor=white&style=for-the-badge" /></a>
 
 <h2>Here are the stats</h3>
-<p align="right">My favorite languages:</p>
+<p align="center">My favorite languages:</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" alt="Favorite Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+Favorite+Languages&show_icons=true&theme=radical" alt="Favorite Languages"/>
 
 <p align="left">My favorite repositories:</p>
 
