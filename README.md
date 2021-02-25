@@ -20,17 +20,14 @@
 
 <h3 align="center">My Discord bots:</h3>
 
-<p align="center">
-  
-<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>
-<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>
+<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a></p>
 <!--<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>-->
   
 <!--![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)-->
 
-</p>
 <!--<a href="https://github.com/ADawesomeguy/AwesomeMC">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&tet_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
 </a>
