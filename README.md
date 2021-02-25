@@ -18,13 +18,13 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+Favorite+Languages&show_icons=true&theme=radical" alt="Favorite Languages"/></p>
 
-<h3 align="center">My favorite repositories:</h3>
+<h3 align="center">My Discord bots:</h3>
 
 <p align="center">
   
 <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>
-<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>
+<!--<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>-->
   
 <!--![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
