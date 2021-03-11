@@ -13,24 +13,6 @@
 <a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-8888FF?logo=firefox&style=for-the-badge" /></a>
 <a href="https://www.npmjs.com/~adawesomeguy"> <img src="https://img.shields.io/badge/NPMJS-FF88FF?logo=npm&logoColor=white&style=for-the-badge" /></a>
 
-<h2 align="center">Here's some stuff about my code</h2>
-<h3 align="center">My favorite languages:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+Favorite+Languages&show_icons=true&theme=radical" alt="Favorite Languages"/></p>
-
-<h3 align="center">My Discord bots:</h3>
-
-<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>
-<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a></p>
-
-<h3 align="center">My games:</h3>
-
-<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a></p>
-
-<h3 align="center">My websites:</h3>
-
-<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=ad-awesome-dot-tech&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=er404-frc&repo=team8527-er404&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a></p>
 <!--<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>-->
   
 <!--![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
