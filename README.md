@@ -5,7 +5,7 @@
 > Developer, Linux Enthusiast, and Full Time Nerd 🤓
 <h3>A Little Bit About Me</h2>
 
-<p>I'm a 15 year old that loves learning about anything tech!</p>
+<p>I'm a 16-year-old that loves learning about anything tech!</p>
 
 <p>Here are some places you can see my work in action:</p>
 
