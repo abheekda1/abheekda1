@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=onedark" />
 
 # Abheek Dhawan
 > Developer, Linux Enthusiast, and Full Time Nerd 🤓
