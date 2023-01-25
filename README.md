@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=adawesomeguy&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheekda1&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=onedark" />
 
 # Abheek Dhawan
 > Developer, Linux Enthusiast, and Full Time Nerd 🤓
@@ -10,20 +10,20 @@
 <p>Here are some places you can see my work in action:</p>
 
 <a href="https://www.youtube.com/channel/UCjMklVqZIPRwcFXKUOXhHYg"> <img src="https://img.shields.io/badge/youtube-FF8888?logo=youtube&logoColor=white&style=for-the-badge" /></a>
-<a href="https://adawesome.tech"> <img src="https://img.shields.io/badge/website-8888FF?logo=firefox&style=for-the-badge" /></a>
+<a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-8888FF?logo=firefox&style=for-the-badge" /></a>
 <a href="https://www.npmjs.com/~abheekd"> <img src="https://img.shields.io/badge/NPMJS-FF88FF?logo=npm&logoColor=white&style=for-the-badge" /></a>
 
 <!--<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>-->
   
 <!--![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomescibo&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)-->
+![](https://github-readme-stats.vercel.app/api/pin/?username=abheekda1&repo=awesomemc&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=abheekda1&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical)-->
 
 <!--<a href="https://github.com/ADawesomeguy/AwesomeMC">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=awesomemc&title_color=FD9047&icon_color=FD9047&tet_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abheekda1&repo=awesomemc&title_color=FD9047&icon_color=FD9047&tet_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/ADawesomeguy/SpacEscape2D">
-<img alight="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
+<img alight="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abheekda1&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical" />
 </a>-->
 
 <!--
