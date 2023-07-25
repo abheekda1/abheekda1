@@ -1,17 +1,15 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheekda1&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheekda1&title_color=fff&icon_color=0ff&text_color=bbb&custom_title=My+GitHub+Stats&show_icons=true&theme=transparent" />
 
 # Abheek Dhawan
-> Developer, Linux Enthusiast, and Full Time Nerd 🤓
-<h3>A Little Bit About Me</h2>
+> High school senior interested in astrophysics and computer science
 
-<p>I'm a 16-year-old that loves learning about anything tech!</p>
+Here are some places you can see my work:  
 
-<p>Here are some places you can see my work in action:</p>
-
-<a href="https://www.youtube.com/channel/UCjMklVqZIPRwcFXKUOXhHYg"> <img src="https://img.shields.io/badge/youtube-FF8888?logo=youtube&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-8888FF?logo=firefox&style=for-the-badge" /></a>
-<a href="https://www.npmjs.com/~abheekd"> <img src="https://img.shields.io/badge/NPMJS-FF88FF?logo=npm&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-000?logo=firefox&style=for-the-badge" /></a>
+<a href="https://www.youtube.com/channel/UCjMklVqZIPRwcFXKUOXhHYg"> <img src="https://img.shields.io/badge/youtube-000?logo=youtube&style=for-the-badge" /></a>
+<a href="https://www.npmjs.com/~abheekd"> <img src="https://img.shields.io/badge/NPMJS-000?logo=npm&style=for-the-badge" /></a>
+<a href="https://www.nexusmods.com/users/106196013?tab=user+files"> <img src="https://img.shields.io/badge/nexusmods-000?logo=cdprojekt&style=for-the-badge" /></a>
 
 <!--<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>-->
   
