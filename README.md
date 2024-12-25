@@ -8,7 +8,6 @@ Here are some places you can see my work:
 
 <a href="https://www.adawesome.tech"> <img src="https://img.shields.io/badge/website-000?logo=firefox&style=for-the-badge" /></a>
 <a href="https://www.youtube.com/channel/UCjMklVqZIPRwcFXKUOXhHYg"> <img src="https://img.shields.io/badge/youtube-000?logo=youtube&style=for-the-badge" /></a>
-<!--<a href="https://www.npmjs.com/~abheekd"> <img src="https://img.shields.io/badge/NPMJS-000?logo=npm&style=for-the-badge" /></a>-->
 <a href="https://www.nexusmods.com/users/106196013?tab=user+files"> <img src="https://img.shields.io/badge/nexusmods-000?logo=cdprojekt&style=for-the-badge" /></a>
 
 <!--<a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=adawesomeguy&repo=spacescape2d&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=radical"></a>-->
