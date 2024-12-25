@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheekda1&title_color=fff&icon_color=0ff&text_color=bbb&custom_title=My+GitHub+Stats&show_icons=true&theme=transparent" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheekda1&title_color=fff&icon_color=0ff&text_color=bbb&custom_title=My+GitHub+Stats&show_icons=true&theme=transparent" />-->
 
 # Abheek Dhawan
 > College freshman interested in astrophysics and computer science
